@@ -1,0 +1,1 @@
+{"name":"My Life Dashboard","short_name":"Dashboard","description":"A personal, drag-and-drop life dashboard.","start_url":"/life-dashboard/","display":"standalone","background_color":"#14171c","theme_color":"#14171c","lang":"en","scope":"/life-dashboard/","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
